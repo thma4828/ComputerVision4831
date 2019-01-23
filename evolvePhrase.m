@@ -4,7 +4,7 @@ function phrase = evolvePhrase()
     Fit = calcFitness(Pop);
     Pool = getMatingPool(Pop, Fit);
     numgens = 0;
-    while max(Fit) <= 0.70 && numgens < 200
+    while numgens < 20
        Pop = buildNewGen(Pool, numgens);
        Fit = calcFitness(Pop);
        Pool = getMatingPool(Pop, Fit);
