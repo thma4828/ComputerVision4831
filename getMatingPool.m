@@ -1,12 +1,13 @@
 function matingPool = getMatingPool(population, f_array)
-    meanFitness = mean(f_array);
-    maxFitness = max(f_array);
-    minFitness = (min(f_array));
+    mat1 = cell2mat(f_array);
+    meanFitness = mean(mat1);
+    maxFitness = max(mat1);
+    minFitness = (min(mat1));
     survivalLevel = meanFitness / 2;
-    matingPool = [];
-    for i=1:200
-        if(f_array(i) >= survivalLevel)
-            matingPool = [matingPool population(i)];
+    matingPool = cell(500, 1);
+    for i=1:500
+        if(f_array{i} >= survivalLevel)
+            matingPool{i} = population{i};
         end
     end
     

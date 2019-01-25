@@ -1,24 +1,24 @@
-function phrase = evolvePhrase()
-    tic
-    Pop = buildPopulation();
-    Fit = calcFitness(Pop);
+function phrase = evolvePhrase(sword, targetPhrase)
+    tic;
+    Pop = buildPopulation(sword);
+    Fit = calcFitness(Pop, targetPhrase, sword);
     Pool = getMatingPool(Pop, Fit);
     numgens = 0;
-    while numgens < 30
-       Pop = buildNewGen(Pool, numgens);
-       Fit = calcFitness(Pop);
+    while numgens < 20
+       Pop = buildNewGen(Pool, numgens, sword, targetPhrase);
+       Fit = calcFitness(Pop, targetPhrase, sword);
        Pool = getMatingPool(Pop, Fit);
        numgens = numgens + 1;
        if mod(numgens, 10) == 0
-           [~, index] = max(Fit);
-           fprintf("best string: %s\n", char(cell2mat(Pop(index))));
+           [~, index] = max(cell2mat(Fit));
+           fprintf("best string: %s\n", Pop{index});
            fprintf("generation: %d\n", numgens);
-           fprintf("max fitness: %d\n", max(Fit));
+           fprintf("max fitness: %d\n", max(cell2mat(Fit)));
        end
     end
-    [mf, index] = max(Fit);
-    phrase = Pop(index);
-    fprintf("best phrase was: %s\n", phrase{1});
+    [mf, index] = max(cell2mat(Fit));
+    phrase = Pop{index};
+    fprintf("best phrase was: %s\n", phrase);
     fprintf("best phrase fitness was: %d\n", mf);
     toc
 end
