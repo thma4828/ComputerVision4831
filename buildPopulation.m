@@ -5,9 +5,9 @@ function population = buildPopulation()
     asciiArray = [asciiArray1 asciiArray2];
     theChars = [space asciiArray];
     matvec = [];
-    for i = 1:600
-       randWord = cellstr(char(randsample(theChars, 50))); 
-       matvec = [matvec randWord];
+    for i = 1:500
+       randWord = cellstr(char(datasample(theChars, 50)));
+       matvec = [matvec, randWord];
     end
     population = matvec;
 end 

@@ -1,6 +1,6 @@
 function mut_child = mutateChild(child, rnum)
     theChild = cell2mat(child);
-    r = randi(100, 1, 1);
+    r = randi(100 + rnum, 1, 1);
     if r < 1 
        nonce = randi([1, 17]);
        space = 32;

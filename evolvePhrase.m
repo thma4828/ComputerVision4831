@@ -4,7 +4,7 @@ function phrase = evolvePhrase()
     Fit = calcFitness(Pop);
     Pool = getMatingPool(Pop, Fit);
     numgens = 0;
-    while numgens < 20
+    while numgens < 30
        Pop = buildNewGen(Pool, numgens);
        Fit = calcFitness(Pop);
        Pool = getMatingPool(Pop, Fit);
@@ -19,6 +19,6 @@ function phrase = evolvePhrase()
     [mf, index] = max(Fit);
     phrase = Pop(index);
     fprintf("best phrase was: %s\n", phrase{1});
-    fprintf("best phrase fitness was: %d", mf);
+    fprintf("best phrase fitness was: %d\n", mf);
     toc
 end
