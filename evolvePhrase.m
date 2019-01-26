@@ -4,7 +4,7 @@ function phrase = evolvePhrase(sword, targetPhrase)
     Fit = calcFitness(Pop, targetPhrase, sword);
     Pool = getMatingPool(Pop, Fit);
     numgens = 0;
-    while numgens < 20
+    while numgens < 100
        Pop = buildNewGen(Pool, numgens, sword, targetPhrase);
        Fit = calcFitness(Pop, targetPhrase, sword);
        Pool = getMatingPool(Pop, Fit);
