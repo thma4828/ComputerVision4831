@@ -1,0 +1,14 @@
+function pool = simpleColorPool()
+    pool = cell(10, 1);
+    pool{1} = imread('PhotoSorter_images/20160707_122008.jpg');
+    pool{1} = imread('PhotoSorter_images/20160707_122010.jpg');
+    pool{1} = imread('PhotoSorter_images/20160707_123818.jpg');
+    pool{1} = imread('PhotoSorter_images/20160707_123821.jpg');
+    pool{1} = imread('PhotoSorter_images/20160707_123843.jpg');
+    pool{1} = imread('PhotoSorter_images/20160707_12200.jpg');
+    pool{1} = imread('PhotoSorter_images/20160707_12200.jpg');
+    pool{1} = imread('PhotoSorter_images/20160707_12200.jpg');
+    pool{1} = imread('PhotoSorter_images/20160707_12200.jpg');
+    pool{1} = imread('PhotoSorter_images/20160707_12200.jpg');
+    
+end

@@ -1,0 +1,250 @@
+ROUND {1}
+lowest pixel loss (best fit): 1.270505e+05
+highest pixel loss (worst fit): 135823
+genetic diversity: 8.772500e+03
+
+ROUND {2}
+lowest pixel loss (best fit): 122077
+highest pixel loss (worst fit): 1.318013e+05
+genetic diversity: 9.724250e+03
+
+ROUND {3}
+lowest pixel loss (best fit): 1.173951e+05
+highest pixel loss (worst fit): 1.274569e+05
+genetic diversity: 1.006175e+04
+
+ROUND {4}
+lowest pixel loss (best fit): 1.141874e+05
+highest pixel loss (worst fit): 1.220908e+05
+genetic diversity: 7.903375e+03
+
+ROUND {5}
+lowest pixel loss (best fit): 1.095802e+05
+highest pixel loss (worst fit): 1.178109e+05
+genetic diversity: 8.230688e+03
+
+ROUND {6}
+lowest pixel loss (best fit): 1.061706e+05
+highest pixel loss (worst fit): 1.137611e+05
+genetic diversity: 7.590563e+03
+
+ROUND {7}
+lowest pixel loss (best fit): 1.026557e+05
+highest pixel loss (worst fit): 1.098806e+05
+genetic diversity: 7.224844e+03
+
+ROUND {8}
+lowest pixel loss (best fit): 9.916775e+04
+highest pixel loss (worst fit): 1.065890e+05
+genetic diversity: 7.421219e+03
+
+ROUND {9}
+lowest pixel loss (best fit): 9.557303e+04
+highest pixel loss (worst fit): 1.037297e+05
+genetic diversity: 8.156625e+03
+
+ROUND {10}
+lowest pixel loss (best fit): 9.260748e+04
+highest pixel loss (worst fit): 9.926967e+04
+genetic diversity: 6.662188e+03
+
+ROUND {11}
+lowest pixel loss (best fit): 9.037223e+04
+highest pixel loss (worst fit): 9.619893e+04
+genetic diversity: 5.826695e+03
+
+ROUND {12}
+lowest pixel loss (best fit): 8.641583e+04
+highest pixel loss (worst fit): 9.349344e+04
+genetic diversity: 7.077609e+03
+
+ROUND {13}
+lowest pixel loss (best fit): 8.409205e+04
+highest pixel loss (worst fit): 9.026327e+04
+genetic diversity: 6.171219e+03
+
+ROUND {14}
+lowest pixel loss (best fit): 8.155431e+04
+highest pixel loss (worst fit): 8.833639e+04
+genetic diversity: 6.782082e+03
+
+ROUND {15}
+lowest pixel loss (best fit): 7.932791e+04
+highest pixel loss (worst fit): 8.524430e+04
+genetic diversity: 5.916398e+03
+
+ROUND {16}
+lowest pixel loss (best fit): 7.687230e+04
+highest pixel loss (worst fit): 8.289502e+04
+genetic diversity: 6.022719e+03
+
+ROUND {17}
+lowest pixel loss (best fit): 7.510010e+04
+highest pixel loss (worst fit): 8.017951e+04
+genetic diversity: 5.079410e+03
+
+ROUND {18}
+lowest pixel loss (best fit): 7.350117e+04
+highest pixel loss (worst fit): 7.841884e+04
+genetic diversity: 4.917678e+03
+
+ROUND {19}
+lowest pixel loss (best fit): 7.156182e+04
+highest pixel loss (worst fit): 7.607523e+04
+genetic diversity: 4.513410e+03
+
+ROUND {20}
+lowest pixel loss (best fit): 7.025640e+04
+highest pixel loss (worst fit): 7.395090e+04
+genetic diversity: 3.694500e+03
+
+ROUND {21}
+lowest pixel loss (best fit): 6.899074e+04
+highest pixel loss (worst fit): 7.255534e+04
+genetic diversity: 3.564601e+03
+
+ROUND {22}
+lowest pixel loss (best fit): 6.768553e+04
+highest pixel loss (worst fit): 7.096160e+04
+genetic diversity: 3.276075e+03
+
+ROUND {23}
+lowest pixel loss (best fit): 6.623229e+04
+highest pixel loss (worst fit): 6.952032e+04
+genetic diversity: 3.288025e+03
+
+ROUND {24}
+lowest pixel loss (best fit): 6.484176e+04
+highest pixel loss (worst fit): 6.793597e+04
+genetic diversity: 3.094206e+03
+
+ROUND {25}
+lowest pixel loss (best fit): 6.404873e+04
+highest pixel loss (worst fit): 6.693419e+04
+genetic diversity: 2.885466e+03
+
+ROUND {26}
+lowest pixel loss (best fit): 6.285108e+04
+highest pixel loss (worst fit): 6.585770e+04
+genetic diversity: 3.006614e+03
+
+ROUND {27}
+lowest pixel loss (best fit): 6.191961e+04
+highest pixel loss (worst fit): 6.431520e+04
+genetic diversity: 2.395593e+03
+
+ROUND {28}
+lowest pixel loss (best fit): 6.113236e+04
+highest pixel loss (worst fit): 6.378691e+04
+genetic diversity: 2.654547e+03
+
+ROUND {29}
+lowest pixel loss (best fit): 5.995635e+04
+highest pixel loss (worst fit): 6.258738e+04
+genetic diversity: 2.631029e+03
+
+ROUND {30}
+lowest pixel loss (best fit): 5.918381e+04
+highest pixel loss (worst fit): 6.140685e+04
+genetic diversity: 2.223038e+03
+
+ROUND {31}
+lowest pixel loss (best fit): 5.838306e+04
+highest pixel loss (worst fit): 6.048524e+04
+genetic diversity: 2.102183e+03
+
+ROUND {32}
+lowest pixel loss (best fit): 5.782853e+04
+highest pixel loss (worst fit): 5.978121e+04
+genetic diversity: 1.952681e+03
+
+ROUND {33}
+lowest pixel loss (best fit): 5.700586e+04
+highest pixel loss (worst fit): 5.893897e+04
+genetic diversity: 1.933110e+03
+
+ROUND {34}
+lowest pixel loss (best fit): 5.631676e+04
+highest pixel loss (worst fit): 5.811347e+04
+genetic diversity: 1.796714e+03
+
+ROUND {35}
+lowest pixel loss (best fit): 5.559929e+04
+highest pixel loss (worst fit): 5.760543e+04
+genetic diversity: 2.006137e+03
+
+ROUND {36}
+lowest pixel loss (best fit): 5.500166e+04
+highest pixel loss (worst fit): 5.666827e+04
+genetic diversity: 1.666608e+03
+
+ROUND {37}
+lowest pixel loss (best fit): 5.444348e+04
+highest pixel loss (worst fit): 5.598526e+04
+genetic diversity: 1.541781e+03
+
+ROUND {38}
+lowest pixel loss (best fit): 5.382775e+04
+highest pixel loss (worst fit): 5.530196e+04
+genetic diversity: 1.474209e+03
+
+ROUND {39}
+lowest pixel loss (best fit): 5.350867e+04
+highest pixel loss (worst fit): 5.470446e+04
+genetic diversity: 1.195790e+03
+
+ROUND {40}
+lowest pixel loss (best fit): 5.308078e+04
+highest pixel loss (worst fit): 5.438604e+04
+genetic diversity: 1.305259e+03
+
+ROUND {41}
+lowest pixel loss (best fit): 5.265786e+04
+highest pixel loss (worst fit): 5.384851e+04
+genetic diversity: 1.190658e+03
+
+ROUND {42}
+lowest pixel loss (best fit): 5.233526e+04
+highest pixel loss (worst fit): 5.341168e+04
+genetic diversity: 1.076412e+03
+
+ROUND {43}
+lowest pixel loss (best fit): 5.191666e+04
+highest pixel loss (worst fit): 5.299204e+04
+genetic diversity: 1.075377e+03
+
+ROUND {44}
+lowest pixel loss (best fit): 5.159190e+04
+highest pixel loss (worst fit): 5.259670e+04
+genetic diversity: 1.004801e+03
+
+ROUND {45}
+lowest pixel loss (best fit): 5.123416e+04
+highest pixel loss (worst fit): 5.230650e+04
+genetic diversity: 1.072344e+03
+
+ROUND {46}
+lowest pixel loss (best fit): 5.096147e+04
+highest pixel loss (worst fit): 5.187396e+04
+genetic diversity: 9.124907e+02
+
+ROUND {47}
+lowest pixel loss (best fit): 5.066563e+04
+highest pixel loss (worst fit): 5.151552e+04
+genetic diversity: 8.498957e+02
+
+ROUND {48}
+lowest pixel loss (best fit): 5.039873e+04
+highest pixel loss (worst fit): 5.123814e+04
+genetic diversity: 8.394068e+02
+
+ROUND {49}
+lowest pixel loss (best fit): 5.003314e+04
+highest pixel loss (worst fit): 5.082427e+04
+genetic diversity: 7.911325e+02
+
+ROUND {50}
+lowest pixel loss (best fit): 4.968630e+04
+highest pixel loss (worst fit): 5.060656e+04
+genetic diversity: 9.202542e+02
+
